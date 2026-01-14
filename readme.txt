@@ -5,8 +5,8 @@ Plugin URI: http://glot-o-matic.com/gp-srt
 Author URI: http://toolstack.com
 Tags: translation, glotpress, SRT
 Requires at least: 4.4
-Tested up to: {{WP-VERSION}}
-Stable tag: {{TAG}}
+Tested up to: 6.9
+Stable tag: 1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,3 +27,10 @@ Install from the WordPress plugin directory.
 TBD
 
 == Changelog ==
+= 1.0 =
+* Release date: July 11, 2016
+* Add support for sort by type in GP 2.1.
+
+= 0.5 =
+* Release date: July 2, 2016
+* Initial release.

@@ -10,11 +10,11 @@ Stable tag: 1.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A plugin for GlotPress as a WordPress plugin that adds SRT file support.
+A plugin for GlotPress as a WordPress plugin that adds SRT (SubRip Captions) file support.
 
 == Description ==
 
-A plugin for [GlotPress as a WordPress plugin](https://github.com/GlotPress/GlotPress-WP) that adds SRT file support.
+A plugin for [GlotPress as a WordPress plugin](https://github.com/GlotPress/GlotPress-WP) that adds SRT (SubRip Captions) file support.
 
 == Installation ==
 

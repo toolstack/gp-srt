@@ -3,7 +3,7 @@
 Plugin Name: GP SRT Support
 Plugin URI: http://glot-o-matic.com/gp-srt
 Description: Add SRT file support to GlotPress.
-Version: 0.5
+Version: 1.0
 Author: Greg Ross
 Author URI: http://toolstack.com
 Tags: glotpress, glotpress plugin, translate, srt
@@ -20,10 +20,10 @@ function gp_srt_init() {
 }
 
 function gp_srt_sort_by_fields( $sort_fields ) {
-	$sort_fields['context'] = array( 
-		'title' => __( 'Context', 'glotpress' ),
+	$sort_fields['context'] = array(
+		'title' => __( 'Context', 'gp-srt' ),
 		'sql_sort_by' => 'o.context %s',
 	);
-	
+
 	return $sort_fields;
 }
